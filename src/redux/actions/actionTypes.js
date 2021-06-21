@@ -1,0 +1,1 @@
+export const  buy__laptop = 'buy_laptop';
